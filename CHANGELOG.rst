@@ -27,6 +27,18 @@ Security
 Changed
 =======
 
+2022.1.0 - 2022-02-02
+*********************
+
+Changed
+=======
+- Updated README to reflect the change from Kytos to Kytos NG.
+- New versioning schema, following kytos core versioning
+
+Fixed
+=====
+- Fixed dependencies versions
+
 
 [1.1] - 2021-04-22
 ******************
